@@ -76,7 +76,7 @@
 ### 🔹 Loan Prediction System
 - 🧠 ML-powered loan approval prediction
 - 🖥️ Streamlit + MySQL + Python
-- 🔗 [View Project](https://github.com/YOUR_GITHUB_USERNAME/loan-prediction)
+- 🔗 [View Project](https://github.com/HemanthM17/loan-prediction)
 
 ### 🔹 AI Code Review & Bug Detection
 - 🤖 AI-based code quality analyzer
@@ -88,10 +88,10 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/hemanth-mede-profile/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:hemanthmede@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
