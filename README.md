@@ -45,25 +45,17 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=HemanthM17&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true"
-    alt="GitHub Stats"
-    />
-</p>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HemanthM17&show_icons=true&theme=tokyonight" />
+
 
 
 ---
-
 ## 📈 Most Used Languages
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthM17&layout=compact&theme=tokyonight&cache_seconds=1800&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HemanthM17&layout=compact&theme=tokyonight" />
+
 
 
 ---
