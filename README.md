@@ -101,11 +101,11 @@
 
 ---
 
-## 🐍 Contribution Snake Animation (OPTIONAL BUT COOL)
+## 🐍 Contribution Snake Animation (
 
 > ⚠️ Requires GitHub Action (I can set this up for you)
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/HemanthM17/HemanthM17/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
