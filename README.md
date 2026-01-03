@@ -1,13 +1,13 @@
 <!-- ================= PROFILE HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Hemanth M</h1>
+<h1 align="center">Hi 👋, I'm Hemanth Mede</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+Making;Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=HemanthM17&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HemanthM17&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemanthM17&theme=tokyonight" width="48%" />
 </p>
 
 ---
