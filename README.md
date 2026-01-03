@@ -36,7 +36,7 @@
 
 ### 🌐 Web & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=react,streamlit,mysql,flask" />
+  <img src="https://skillicons.dev/icons?i=react,mysql,flask" />
 </p>
 
 ### 🧰 Tools & Platforms
