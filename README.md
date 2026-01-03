@@ -58,7 +58,7 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthM17&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HemanthM17&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -94,18 +94,6 @@
   <a href="mailto:hemanthmede@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation (
-
-> ⚠️ Requires GitHub Action (I can set this up for you)
-
-![snake gif](https://github.com/HemanthM17/HemanthM17/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
