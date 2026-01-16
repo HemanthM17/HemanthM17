@@ -45,28 +45,6 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HemanthM17&show_icons=true&theme=tokyonight" />
-
-
-
----
-## 📈 Most Used Languages
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HemanthM17&layout=compact&theme=tokyonight" />
-
-
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HemanthM17&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ## 📌 Featured Projects
 
