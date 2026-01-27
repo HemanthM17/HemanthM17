@@ -51,7 +51,7 @@
 ### 🔹 Loan Prediction System
 - 🧠 ML-powered loan approval prediction
 - 🖥️ Streamlit + MySQL + Python
-- 🔗 [View Project](https://github.com/HemanthM17/loan-prediction)
+- 🔗 [View Project](https://loan-prediction-python.streamlit.app/)
 
 ### 🔹 AI Code Review & Bug Detection
 - 🤖 AI-based code quality analyzer
